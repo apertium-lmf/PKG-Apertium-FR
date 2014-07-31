@@ -1,0 +1,14 @@
+Copying and Author information
+
+Resource name: French LMF Apertium Dictionary
+Resource identifier: http://hdl.handle.net/10230/17100
+Licence: GPL
+
+Authors:
+
+() Prompsit Language Engineering, S.L
+
+() Eleka Ingenieritza Linguistikoa S.L
+
+() Universitat Pompeu Fabra. Institut Universitari de Lingüística Aplicada (IULA)
+
